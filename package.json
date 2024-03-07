@@ -1,6 +1,6 @@
 {
   "name": "hello-world-tea",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "hello world",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sultanmaa0/hello-world-tea.git"
+    "url": "https://github.com/sultanmaa0/hello-world-tea"
   },
   "publishConfig": {
   "@sultanmaa0:registry": "https://npm.pkg.github.com"
