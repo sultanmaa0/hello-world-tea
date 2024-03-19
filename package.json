@@ -16,6 +16,10 @@
   "keywords": [
     "hello"
   ],
+  "dependencies": {
+  "express": "^4.17.1",
+  "lodash": "^4.17.21"
+  },
   "author": "sultanmaa0",
   "license": "ISC",
   "bugs": {
